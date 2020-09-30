@@ -14,6 +14,7 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         25,
         25,
         25,
@@ -39,10 +40,38 @@
         21,
         null,
         3,
+=======
+        26,
+        26,
+        26,
+        26,
+        26,
+        null,
+        null,
+        1,
+        8719,
+        8719,
+        null,
+        null,
+        1,
+        24,
+        null,
+        null,
+        1,
+        8721,
+        null,
+        null,
+        1,
+        8719,
+        22,
+        null,
+        8697,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         21,
         21,
         21,
@@ -54,10 +83,24 @@
         20,
         null,
         1,
+=======
+        8717,
+        8716,
+        8716,
+        null,
+        8716,
+        null,
+        8716,
+        21,
+        21,
+        null,
+        8695,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         23,
         23,
         207,
@@ -76,6 +119,26 @@
         15,
         null,
         7,
+=======
+        8718,
+        8718,
+        78462,
+        52346,
+        null,
+        26116,
+        null,
+        null,
+        null,
+        8718,
+        null,
+        null,
+        1,
+        8717,
+        8717,
+        16,
+        null,
+        8701,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         null,
         null,
         null,
@@ -94,6 +157,7 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         253,
         null,
         null,
@@ -102,14 +166,31 @@
         6,
         null,
         38,
+=======
+        258,
+        null,
+        null,
+        1,
+        45,
+        6,
+        null,
+        39,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         29,
         16,
         null,
         13,
+=======
+        30,
+        15,
+        null,
+        15,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         null,
         null,
         null,
@@ -127,18 +208,31 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         42,
         18,
         null,
         null,
         12,
         5,
+=======
+        43,
+        20,
+        null,
+        null,
+        11,
+        4,
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
         7,
         3,
         null,
         null
       ]
     },
+<<<<<<< HEAD
     "timestamp": 1601499227
+=======
+    "timestamp": 1601499040
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
   }
 }

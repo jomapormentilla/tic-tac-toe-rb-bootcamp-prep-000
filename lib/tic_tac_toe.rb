@@ -102,7 +102,11 @@ def draw?(board)
 end
 
 def over?(board)
+<<<<<<< HEAD
   if(draw?(board) == true || (won?(board)))
+=======
+  if(draw?(board) == true || (won?(board))
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
     return true
   else
     false
@@ -123,7 +127,11 @@ def winner(board)
 end
 
 def play(board)
+<<<<<<< HEAD
   until (over?(board))
+=======
+  until (over?(board)==true)
+>>>>>>> 250a1e0cfae120cf67e93726d3c1afb2499c191e
     turn(board)
   end
   
